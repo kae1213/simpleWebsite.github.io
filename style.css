@@ -1,0 +1,25 @@
+body{
+	background-color: lightcoral;
+	font-family: Verdana, sans-serif;
+}
+h2{
+	text-align: center;
+	font-family: Arial;
+}
+
+.button {
+  background-color: maroon; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+	align-self: center;
+}
+
+
+
+
+
